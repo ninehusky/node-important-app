@@ -1,0 +1,21 @@
+{
+  "name": "important-app",
+  "version": "1.0.0",
+  "description": "A node App that's super important.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninehusky/node-important-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninehusky/node-important-app/issues"
+  },
+  "homepage": "https://github.com/ninehusky/node-important-app#readme"
+}
